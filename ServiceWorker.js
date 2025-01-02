@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Gif Jump-1.0";
 const contentToCache = [
-    "Build/Gif Jump.loader.js",
-    "Build/Gif Jump.framework.js",
-    "Build/Gif Jump.data",
-    "Build/Gif Jump.wasm",
+    "Build/Unity.loader.js",
+    "Build/Unity.framework.js",
+    "Build/Unity.data",
+    "Build/Unity.wasm",
     "TemplateData/style.css"
 
 ];
